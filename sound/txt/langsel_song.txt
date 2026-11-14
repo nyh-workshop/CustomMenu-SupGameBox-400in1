@@ -1,0 +1,187 @@
+Sup 400-in-1 language select song 0  (song table $FDFD, track records $FE05 = file 0x6FE05)
+loop length: 585 frames (9.73 s at 60.1 Hz)
+
+---- pulse1  slot $00  flags $00  data $FE15-$FE76  file 0x6FE15-0x6FE76
+header  71 03 12 00   tempo=71 (2.4375 frames/tick) duty=03 vol/env=12 sweep=00
+FE19 pos  2  A1 3A  sweep 3A
+FE1B pos  3  C1 2A  envelope shape 1 length 42
+FE1D pos  4  35 06  F5  len 6
+FE1F pos  5  38 06  G#5  len 6
+FE21 pos  6  31 06  C#5  len 6
+FE23 pos  7  35 06  F5  len 6
+FE25 pos  8  36 0C  F#5  len 12
+FE27 pos  9  36 06  F#5  len 6
+FE29 pos 10  31 06  C#5  len 6
+FE2B pos 11  26 06  F#4  len 6
+FE2D pos 12  26 06  F#4  len 6
+FE2F pos 13  2A 06  A#4  len 6
+FE31 pos 14  2B 06  B4  len 6
+FE33 pos 15  31 03  C#5  len 3
+FE35 pos 16  33 03  D#5  len 3
+FE37 pos 17  31 03  C#5  len 3
+FE39 pos 18  30 03  C5  len 3
+FE3B pos 19  31 06  C#5  len 6
+FE3D pos 20  35 03  F5  len 3
+FE3F pos 21  36 03  F#5  len 3
+FE41 pos 22  26 06  F#4  len 6
+FE43 pos 23  28 06  G#4  len 6
+FE45 pos 24  2A 06  A#4  len 6
+FE47 pos 25  2B 06  B4  len 6
+FE49 pos 26  31 03  C#5  len 3
+FE4B pos 27  33 03  D#5  len 3
+FE4D pos 28  31 03  C#5  len 3
+FE4F pos 29  30 03  C5  len 3
+FE51 pos 30  31 0C  C#5  len 12
+FE53 pos 31  35 06  F5  len 6
+FE55 pos 32  38 06  G#5  len 6
+FE57 pos 33  31 06  C#5  len 6
+FE59 pos 34  35 06  F5  len 6
+FE5B pos 35  36 03  F#5  len 3
+FE5D pos 36  35 03  F5  len 3
+FE5F pos 37  36 03  F#5  len 3
+FE61 pos 38  38 03  G#5  len 3
+FE63 pos 39  3A 06  A#5  len 6
+FE65 pos 40  36 06  F#5  len 6
+FE67 pos 41  35 06  F5  len 6
+FE69 pos 42  38 06  G#5  len 6
+FE6B pos 43  31 06  C#5  len 6
+FE6D pos 44  35 06  F5  len 6
+FE6F pos 45  36 06  F#5  len 6
+FE71 pos 46  36 06  F#5  len 6
+FE73 pos 47  36 0C  F#5  len 12
+FE75 pos 48  B0 04  goto pos 4
+
+---- pulse2  slot $15  flags $01  data $FE78-$FECF  file 0x6FE78-0x6FECF
+header  71 03 14 00   tempo=71 (2.4375 frames/tick) duty=03 vol/env=14 sweep=00
+FE7C pos  2  A1 2A  sweep 2A
+FE7E pos  3  C1 2A  envelope shape 1 length 42
+FE80 pos  4  31 06  C#5  len 6
+FE82 pos  5  35 06  F5  len 6
+FE84 pos  6  28 06  G#4  len 6
+FE86 pos  7  31 06  C#5  len 6
+FE88 pos  8  26 06  F#4  len 6
+FE8A pos  9  2A 06  A#4  len 6
+FE8C pos 10  26 0C  F#4  len 12
+FE8E pos 11  2A 06  A#4  len 6
+FE90 pos 12  2A 06  A#4  len 6
+FE92 pos 13  31 06  C#5  len 6
+FE94 pos 14  33 06  D#5  len 6
+FE96 pos 15  26 06  F#4  len 6
+FE98 pos 16  26 06  F#4  len 6
+FE9A pos 17  26 06  F#4  len 6
+FE9C pos 18  31 03  C#5  len 3
+FE9E pos 19  31 03  C#5  len 3
+FEA0 pos 20  31 06  C#5  len 6
+FEA2 pos 21  2A 06  A#4  len 6
+FEA4 pos 22  28 06  G#4  len 6
+FEA6 pos 23  26 06  F#4  len 6
+FEA8 pos 24  26 06  F#4  len 6
+FEAA pos 25  26 06  F#4  len 6
+FEAC pos 26  2A 06  A#4  len 6
+FEAE pos 27  31 06  C#5  len 6
+FEB0 pos 28  25 06  F4  len 6
+FEB2 pos 29  31 06  C#5  len 6
+FEB4 pos 30  2B 06  B4  len 6
+FEB6 pos 31  31 06  C#5  len 6
+FEB8 pos 32  26 06  F#4  len 6
+FEBA pos 33  26 06  F#4  len 6
+FEBC pos 34  2A 06  A#4  len 6
+FEBE pos 35  26 06  F#4  len 6
+FEC0 pos 36  25 06  F4  len 6
+FEC2 pos 37  31 06  C#5  len 6
+FEC4 pos 38  2B 06  B4  len 6
+FEC6 pos 39  31 06  C#5  len 6
+FEC8 pos 40  26 06  F#4  len 6
+FECA pos 41  2A 06  A#4  len 6
+FECC pos 42  26 0C  F#4  len 12
+FECE pos 43  B0 04  goto pos 4
+
+---- triangle  slot $2A  flags $02  data $FED1-$FF26  file 0x6FED1-0x6FF26
+header  71 03 16 00   tempo=71 (2.4375 frames/tick) linear=03 vol/env=16 sweep=00
+FED5 pos  2  A2 3A  duty/linear 3A
+FED7 pos  3  C1 2A  envelope shape 1 length 42
+FED9 pos  4  28 06  G#3  len 6
+FEDB pos  5  31 06  C#4  len 6
+FEDD pos  6  35 06  F4  len 6
+FEDF pos  7  31 06  C#4  len 6
+FEE1 pos  8  26 09  F#3  len 9
+FEE3 pos  9  26 03  F#3  len 3
+FEE5 pos 10  26 0C  F#3  len 12
+FEE7 pos 11  26 09  F#3  len 9
+FEE9 pos 12  26 03  F#3  len 3
+FEEB pos 13  28 09  G#3  len 9
+FEED pos 14  2A 03  A#3  len 3
+FEEF pos 15  26 09  F#3  len 9
+FEF1 pos 16  26 03  F#3  len 3
+FEF3 pos 17  28 09  G#3  len 9
+FEF5 pos 18  2A 03  A#3  len 3
+FEF7 pos 19  26 09  F#3  len 9
+FEF9 pos 20  26 03  F#3  len 3
+FEFB pos 21  28 09  G#3  len 9
+FEFD pos 22  2A 03  A#3  len 3
+FEFF pos 23  26 09  F#3  len 9
+FF01 pos 24  26 03  F#3  len 3
+FF03 pos 25  28 09  G#3  len 9
+FF05 pos 26  2A 03  A#3  len 3
+FF07 pos 27  21 09  C#3  len 9
+FF09 pos 28  21 03  C#3  len 3
+FF0B pos 29  23 09  D#3  len 9
+FF0D pos 30  25 03  F3  len 3
+FF0F pos 31  26 09  F#3  len 9
+FF11 pos 32  26 03  F#3  len 3
+FF13 pos 33  28 09  G#3  len 9
+FF15 pos 34  2A 03  A#3  len 3
+FF17 pos 35  21 09  C#3  len 9
+FF19 pos 36  21 03  C#3  len 3
+FF1B pos 37  23 09  D#3  len 9
+FF1D pos 38  25 03  F3  len 3
+FF1F pos 39  26 09  F#3  len 9
+FF21 pos 40  26 03  F#3  len 3
+FF23 pos 41  26 0C  F#3  len 12
+FF25 pos 42  B0 04  goto pos 4
+
+---- noise  slot $3F  flags $03  data $FF28-$FF81  file 0x6FF28-0x6FF81
+header  71 02 00 00   tempo=71 (2.4375 frames/tick) duty=02 vol/env=00 sweep=00
+FF2C pos  2  C1 10  envelope shape 1 length 16
+FF2E pos  3  0A 06  noise A  len 6
+FF30 pos  4  08 06  noise 8  len 6
+FF32 pos  5  0A 06  noise A  len 6
+FF34 pos  6  08 06  noise 8  len 6
+FF36 pos  7  0A 06  noise A  len 6
+FF38 pos  8  08 06  noise 8  len 6
+FF3A pos  9  0A 06  noise A  len 6
+FF3C pos 10  08 06  noise 8  len 6
+FF3E pos 11  0A 06  noise A  len 6
+FF40 pos 12  08 06  noise 8  len 6
+FF42 pos 13  0A 06  noise A  len 6
+FF44 pos 14  08 06  noise 8  len 6
+FF46 pos 15  0A 06  noise A  len 6
+FF48 pos 16  08 06  noise 8  len 6
+FF4A pos 17  0A 06  noise A  len 6
+FF4C pos 18  08 06  noise 8  len 6
+FF4E pos 19  0A 06  noise A  len 6
+FF50 pos 20  08 06  noise 8  len 6
+FF52 pos 21  0A 06  noise A  len 6
+FF54 pos 22  08 06  noise 8  len 6
+FF56 pos 23  0A 06  noise A  len 6
+FF58 pos 24  08 06  noise 8  len 6
+FF5A pos 25  0A 06  noise A  len 6
+FF5C pos 26  08 06  noise 8  len 6
+FF5E pos 27  0A 06  noise A  len 6
+FF60 pos 28  08 06  noise 8  len 6
+FF62 pos 29  0A 06  noise A  len 6
+FF64 pos 30  08 06  noise 8  len 6
+FF66 pos 31  0A 06  noise A  len 6
+FF68 pos 32  08 06  noise 8  len 6
+FF6A pos 33  0A 06  noise A  len 6
+FF6C pos 34  08 06  noise 8  len 6
+FF6E pos 35  0A 06  noise A  len 6
+FF70 pos 36  08 06  noise 8  len 6
+FF72 pos 37  0A 06  noise A  len 6
+FF74 pos 38  08 06  noise 8  len 6
+FF76 pos 39  0A 06  noise A  len 6
+FF78 pos 40  08 06  noise 8  len 6
+FF7A pos 41  0A 06  noise A  len 6
+FF7C pos 42  08 03  noise 8  len 3
+FF7E pos 43  08 03  noise 8  len 3
+FF80 pos 44  B0 04  goto pos 4

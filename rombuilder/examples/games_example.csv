@@ -1,0 +1,26 @@
+# Your game list - one game per line, in menu order (at most 500).  Lines starting with # are ignored.
+# Edit it, then:  make rom      (no games.csv here = every .nes in custom/games/, sorted by name)
+#
+#   name        what the menu shows: A-Z 0-9 space ! " & ' - . / : @  (upper-cased; up to 19 characters for games 1-9,
+#               18 for 10-99, 17 from game 100 on); empty = taken from the file name, cleaned of labels like (U) [!] (Rev A)
+#   file        the .nes file (NROM or MMC3), relative to custom/games/ (else to this file's folder), or a full path
+#   prg_addr    optional: flash address for the PRG (multiple of the padded PRG size, 0x080000 or above); empty = automatic
+#   chr_addr    optional: the same for the CHR (ignored for CHR-RAM games)
+#   mirroring   optional: H or V, overrides the .nes header (NROM games; MMC3 games set it themselves)
+#
+# The lines below are the self-checking test carts (examples/carts/): each reads back its own banks and shows OK or BAD.
+# Replace them with your games: copy the .nes files into custom/games/ and list them here, e.g.
+#   MY GAME,my_game.nes,,,
+#   ,Contra (USA).nes,,,          <- name from the file: CONTRA
+#
+name,file,prg_addr,chr_addr,mirroring
+NROM 16K TEST,carts/nrom16_test.nes,,,
+NROM 32K TEST,carts/nrom32_test.nes,,,
+MMC3 128K TEST,carts/mmc3_128k.nes,,,
+MMC3 256K WRAM,carts/mmc3_256k_wram.nes,,,
+MMC3 CHR-RAM,carts/mmc3_chrram.nes,,,
+MMC3 512K TEST,carts/mmc3_512k.nes,,,
+MMC3 64K TEST,carts/mmc3_64k.nes,,,
+MMC3 384K TEST,carts/mmc3_384k.nes,,,
+NROM 16K AGAIN,carts/nrom16_test.nes,,,
+FIXED ADDRESS,carts/nrom32_test.nes,0x7F8000,0x7F6000,V

@@ -1,0 +1,6 @@
+# Language-select start-up chime (one-shot)
+channel = pulse1
+duty    = 2
+sweep   = 8A           # pitch slides up
+steps   = C5:15
+length  = 20

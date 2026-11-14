@@ -1,0 +1,5 @@
+# example list colours (make rom COLORS=rombuilder/examples/wallpaper/colors.txt)
+text    = $38       # light yellow names
+text_bg = $0C       # dark teal around them and as the background (with a wallpaper: auto is usually best)
+cursor  = $2A       # green arrow
+title   = $27 $30       # orange title, white highlight

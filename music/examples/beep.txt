@@ -1,0 +1,5 @@
+# English menu beep (one-shot: only the first step is used)
+channel = pulse2
+duty    = 1
+steps   = A5:12
+length  = 6            # frames

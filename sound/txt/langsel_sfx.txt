@@ -1,0 +1,46 @@
+Sup 400-in-1 language select sound effects  (pointer table $F945 = file 0x6F945, 43 entries)
+record: enable, chan_bit, regmask, frames_per_step, stream_bytes, 4 initial register values, stream
+
+#00  $F99B file 0x6F99B  pulse2   regmask F  every 50 frames  0 bytes  init FF AA 57 05  stream 
+#01  $F9A4 file 0x6F9A4  pulse2   regmask F  every 3 frames  12 bytes  init 0F 7F D4 08  stream 0F 7F 1C 09 0F 7F 52 09 0F 7F AB 09
+#02  $F9B9 file 0x6F9B9  noise    regmask F  every 50 frames  0 bytes  init 1F AA EF 80  stream 
+#03  $F9C2 file 0x6F9C2  pulse2   regmask F  every 200 frames  0 bytes  init 3F CB CF 02  stream 
+#04  $F9CB file 0x6F9CB  pulse2   regmask F  every 30 frames  0 bytes  init 3F AA C8 00  stream 
+#05  $F9D4 file 0x6F9D4  pulse2   regmask F  every 40 frames  0 bytes  init 6F AB CF 02  stream 
+#06  $F9DD file 0x6F9DD  pulse2   regmask F  every 3 frames  12 bytes  init 0F 7F AB 09  stream 0F 7F 52 09 0F 7F 1C 09 0F 7F D4 08
+#07  $F9F2 file 0x6F9F2  noise    regmask F  every 60 frames  0 bytes  init 0F 00 0E C0  stream 
+#08  $F9FB file 0x6F9FB  triangle regmask 4  every 3 frames  16 bytes  init FF 00 39 C0  stream 3C 40 43 47 4C 50 55 5A 5F 65 65 6B 6B 00 00 00
+#09  $FA14 file 0x6FA14  pulse2   regmask D  every 1 frames  90 bytes  init 75 30 B0 08  stream 76 B8 08 77 C0 08 78 C8 08 79 D0 08 7A D8 08 7B E0 08 7C E8 08 7D F0 08 7D F8 08 7C 00 09 7C 08 09 7B 10 09 7B 18 09 7A 20 09 7A 28 09 79 30 09 79 38 09 78 40 09 78 48 09 77 50 09 77 58 09 76 60 09 76 68 09 75 70 09 75 78 09 74 80 09 74 88 09 73 90 09 73 98 09 00 00 00
+#10  $FA77 file 0x6FA77  noise    regmask F  every 3 frames  28 bytes  init 3F 08 0A 08  stream 3D 08 03 08 3B 08 04 08 39 08 05 08 37 08 06 08 35 08 07 08 33 08 08 08 00 00 00 00
+#11  $FA9C file 0x6FA9C  noise    regmask 1  every 6 frames  14 bytes  init 3C 00 0F 08  stream 3F 3E 3D 3C 3B 3A 39 38 37 36 35 34 30 00
+#12  $FAB3 file 0x6FAB3  triangle regmask 4  every 1 frames  40 bytes  init 8F 19 A0 A0  stream 97 A0 97 23 35 47 25 38 4B 28 3B 50 2A 3F 54 2C 43 59 2F 47 5F 32 4B 64 35 50 6A 71 77 7F 86 8E 97 A0 A9 B3 BE C9 D5 00
+#13  $FAE4 file 0x6FAE4  pulse2   regmask 1  every 1 frames  1 bytes  init BF 08 61 08  stream 00
+#14  $FAEE file 0x6FAEE  pulse2   regmask 1  every 30 frames  1 bytes  init 9F A5 69 08  stream 8F
+#15  $FAF8 file 0x6FAF8  pulse2   regmask 4  every 1 frames  23 bytes  init 00 81 35 08  stream 32 2F 2C 2A 28 25 23 21 1F 1E 1C 1A 1E 1F 21 23 25 28 2A 2C 2F 32 35
+#16  $FB18 file 0x6FB18  pulse2   regmask 4  every 3 frames  16 bytes  init 9F 7F D4 08  stream 9F D4 E1 9F E1 EE 9F EE FD 9F FD 0C EE 0C 1C 00
+#17  $FB31 file 0x6FB31  noise    regmask 5  every 1 frames  32 bytes  init 3A 78 0F 18  stream 3A 01 3A 02 3A 03 3A 04 3A 05 3A 06 3A 07 3A 08 3A 09 3A 0A 3A 0B 3A 0C 3A 0D 3A 0E 3A 0F 00 10
+#18  $FB5A file 0x6FB5A  pulse2   regmask 3  every 3 frames  18 bytes  init BA 84 55 08  stream B9 83 B6 83 B4 83 B3 83 B2 83 B1 83 B1 83 B1 83 B1 83
+#19  $FB75 file 0x6FB75  pulse2   regmask D  every 6 frames  9 bytes  init 3B 08 00 C5  stream 30 00 C5 3B F8 C3 30 F8 C3
+#20  $FB87 file 0x6FB87  pulse2   regmask 4  every 3 frames  9 bytes  init CA 00 D6 C0  stream AA 78 D6 AA 78 D6 AA 78 00
+#21  $FB99 file 0x6FB99  pulse2   regmask 5  every 5 frames  44 bytes  init 7E 08 8E 00  stream BD 78 BD 8E B7 59 B7 3F B7 2A B9 1C BD 15 B5 0E B5 78 B7 AE BD 59 B7 3F B9 2A B9 1C BA 15 B6 0E B5 78 B5 8E B4 59 B3 3F B2 38 00 00
+#22  $FBCE file 0x6FBCE  pulse2   regmask 4  every 1 frames  25 bytes  init CA 00 6B C0  stream 87 7F 78 71 6B 65 5F 5A 87 7F 78 71 6B 65 5F 5A 87 7F 78 71 6B 65 5F 5A 00
+#23  $FBF0 file 0x6FBF0  pulse2   regmask 4  every 1 frames  17 bytes  init 8F 00 8E 08  stream 86 7F 78 71 6A 64 5F 86 7F 78 71 6A 64 5F 59 54 50
+#24  $FC0A file 0x6FC0A  noise    regmask 1  every 50 frames  0 bytes  init 0C 00 0D 40  stream 
+#25  $FC13 file 0x6FC13  pulse2   regmask 1  every 1 frames  8 bytes  init 4F 00 6A 08  stream 4F 4F 4F 4F 4F 4F 4F 00
+#26  $FC24 file 0x6FC24  pulse2   regmask 3  every 1 frames  12 bytes  init BF 00 D5 00  stream BF 00 BF 00 BF 00 BF 00 BF 00 00 00
+#27  $FC39 file 0x6FC39  pulse2   regmask F  every 5 frames  8 bytes  init 9F 00 2A 29  stream 3F 08 C4 C1 00 00 00 00
+#28  $FC4A file 0x6FC4A  pulse2   regmask F  every 10 frames  4 bytes  init 3F 08 00 C4  stream 00 00 00 00
+#29  $FC57 file 0x6FC57  triangle regmask 0  every 0 frames  0 bytes  init 1F 00 BF C0  stream 
+#30  $FC60 file 0x6FC60  triangle regmask 0  every 0 frames  0 bytes  init 1F 00 97 C0  stream 
+#31  $FC69 file 0x6FC69  triangle regmask 0  every 0 frames  0 bytes  init 0F 00 87 C0  stream 
+#32  $FC72 file 0x6FC72  triangle regmask 0  every 0 frames  0 bytes  init 0F 00 6B C0  stream 
+#33  $FC7B file 0x6FC7B  pulse2   regmask 0  every 0 frames  0 bytes  init 9B 49 70 28  stream 
+#34  $FC84 file 0x6FC84  pulse2   regmask 0  every 0 frames  0 bytes  init 80 11 50 18  stream 
+#35  $FC8D file 0x6FC8D  pulse2   regmask 4  every 3 frames  1 bytes  init 9F 7F BE 08  stream 01
+#36  $FC97 file 0x6FC97  pulse2   regmask 1  every 2 frames  2 bytes  init BF 08 25 F8  stream BC B0
+#37  $FCA2 file 0x6FCA2  pulse2   regmask 4  every 2 frames  2 bytes  init 9F 7F 8E 08  stream 01 01
+#38  $FCAD file 0x6FCAD  pulse2   regmask D  every 1 frames  189 bytes  init 9F 7F 8E 08  stream B0 AD FE BF 92 01 3F F5 03 FE EF 05 7E F8 02 BD 19 02 3D 9B 05 BD A5 02 FD 30 04 7C FB 01 BC BD 03 7C DE 01 FC 30 04 BB 56 03 3B FE 04 FB 25 03 7B 73 04 BA EF 05 3A 5B 02 BA 56 03 FA AD 06 79 92 01 B9 F5 03 79 EF 05 F9 F8 02 B9 19 02 38 9B 05 F8 A5 02 78 30 04 B7 FB 01 37 BD 03 B7 DE 01 F6 30 04 76 56 03 B6 FE 04 76 25 03 F5 73 04 B5 EF 05 35 5B 02 F4 56 03 74 AD 06 B4 92 01 34 F5 03 B3 EF 05 F3 F8 02 73 19 02 B3 9B 05 72 A5 02 F2 30 04 B2 FB 01 32 BD 03 F2 DE 01 71 30 04 B1 56 03 31 FE 04 B1 25 03 F0 73 04 70 EF 05 B0 5B 02 70 56 03 F0 AD 06 B0 92 01 30 F5 03
+#39  $FD73 file 0x6FD73  pulse2   regmask C  every 3 frames  66 bytes  init 44 00 47 C0  stream 4C C0 50 C0 55 C0 5A C0 5F C0 65 C0 65 C0 6B C0 71 C0 78 C0 7F C0 87 C0 8F C0 97 C0 A0 C0 AA C0 B4 C0 BF C0 CA C0 D6 C0 E3 C0 F0 C0 FE C0 0E C1 1E C1 2F C1 41 C1 54 C1 68 C1 7D C1 94 C1 AC C1 00 C0
+#40  $FDBE file 0x6FDBE  pulse2   regmask C  every 5 frames  22 bytes  init FF 00 7D C1  stream 68 C1 54 C1 2F C1 1E C1 FE C0 1E C1 2F C1 54 C1 68 C1 7D C1 00 C0
+#41  $FDDD file 0x6FDDD  pulse2   regmask 5  every 8 frames  14 bytes  init 9F 7F 7C 09  stream 9F 93 9F 7C 9F 93 9F 7C 9F 93 9F 7C 00 00
+#42  $FDF4 file 0x6FDF4  triangle regmask 0  every 50 frames  0 bytes  init 01 00 81 18  stream 

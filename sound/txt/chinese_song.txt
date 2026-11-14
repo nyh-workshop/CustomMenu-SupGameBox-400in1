@@ -1,0 +1,627 @@
+Sup 400-in-1 Chinese menu song 0  (song table $EFB9, track records $EFC5 = file 0x3EFC5)
+loop length: 1794 frames (29.85 s at 60.1 Hz)
+
+---- pulse1  slot $00  flags $00  data $EFD5-$F0E8  file 0x3EFD5-0x3F0E8
+header  71 03 1F 00   tempo=71 (2.4375 frames/tick) duty=03 vol/env=1F sweep=00
+EFD9 pos  2  A2 3A  duty/linear 3A
+EFDB pos  3  C1 2A  envelope shape 1 length 42
+EFDD pos  4  1B 08  B3  len 8
+EFDF pos  5  1F 04  rest  len 4
+EFE1 pos  6  1B 04  B3  len 4
+EFE3 pos  7  1F 04  rest  len 4
+EFE5 pos  8  1A 04  A#3  len 4
+EFE7 pos  9  1F 04  rest  len 4
+EFE9 pos 10  1A 04  A#3  len 4
+EFEB pos 11  2B 08  B4  len 8
+EFED pos 12  26 08  F#4  len 8
+EFEF pos 13  2B 04  B4  len 4
+EFF1 pos 14  32 04  D5  len 4
+EFF3 pos 15  2B 08  B4  len 8
+EFF5 pos 16  31 04  C#5  len 4
+EFF7 pos 17  32 04  D5  len 4
+EFF9 pos 18  27 08  G4  len 8
+EFFB pos 19  22 08  D4  len 8
+EFFD pos 20  27 04  G4  len 4
+EFFF pos 21  2B 04  B4  len 4
+F001 pos 22  32 08  D5  len 8
+F003 pos 23  31 04  C#5  len 4
+F005 pos 24  2B 04  B4  len 4
+F007 pos 25  29 08  A4  len 8
+F009 pos 26  24 08  E4  len 8
+F00B pos 27  29 04  A4  len 4
+F00D pos 28  31 04  C#5  len 4
+F00F pos 29  34 08  E5  len 8
+F011 pos 30  32 04  D5  len 4
+F013 pos 31  31 04  C#5  len 4
+F015 pos 32  2B 08  B4  len 8
+F017 pos 33  26 08  F#4  len 8
+F019 pos 34  2B 04  B4  len 4
+F01B pos 35  32 04  D5  len 4
+F01D pos 36  2B 08  B4  len 8
+F01F pos 37  31 04  C#5  len 4
+F021 pos 38  32 04  D5  len 4
+F023 pos 39  2B 08  B4  len 8
+F025 pos 40  26 08  F#4  len 8
+F027 pos 41  2B 04  B4  len 4
+F029 pos 42  32 04  D5  len 4
+F02B pos 43  2B 08  B4  len 8
+F02D pos 44  31 04  C#5  len 4
+F02F pos 45  32 04  D5  len 4
+F031 pos 46  27 08  G4  len 8
+F033 pos 47  22 08  D4  len 8
+F035 pos 48  27 04  G4  len 4
+F037 pos 49  2B 04  B4  len 4
+F039 pos 50  32 08  D5  len 8
+F03B pos 51  31 04  C#5  len 4
+F03D pos 52  2B 04  B4  len 4
+F03F pos 53  29 08  A4  len 8
+F041 pos 54  24 08  E4  len 8
+F043 pos 55  29 04  A4  len 4
+F045 pos 56  31 04  C#5  len 4
+F047 pos 57  34 08  E5  len 8
+F049 pos 58  32 04  D5  len 4
+F04B pos 59  31 04  C#5  len 4
+F04D pos 60  2B 08  B4  len 8
+F04F pos 61  26 08  F#4  len 8
+F051 pos 62  2B 04  B4  len 4
+F053 pos 63  32 04  D5  len 4
+F055 pos 64  2B 08  B4  len 8
+F057 pos 65  31 04  C#5  len 4
+F059 pos 66  32 04  D5  len 4
+F05B pos 67  1B 08  B3  len 8
+F05D pos 68  16 08  F#3  len 8
+F05F pos 69  1B 04  B3  len 4
+F061 pos 70  22 04  D4  len 4
+F063 pos 71  1B 08  B3  len 8
+F065 pos 72  21 04  C#4  len 4
+F067 pos 73  22 04  D4  len 4
+F069 pos 74  17 08  G3  len 8
+F06B pos 75  12 08  D3  len 8
+F06D pos 76  17 04  G3  len 4
+F06F pos 77  1B 04  B3  len 4
+F071 pos 78  22 08  D4  len 8
+F073 pos 79  21 04  C#4  len 4
+F075 pos 80  1B 04  B3  len 4
+F077 pos 81  19 08  A3  len 8
+F079 pos 82  14 08  E3  len 8
+F07B pos 83  19 04  A3  len 4
+F07D pos 84  21 04  C#4  len 4
+F07F pos 85  24 08  E4  len 8
+F081 pos 86  22 04  D4  len 4
+F083 pos 87  21 04  C#4  len 4
+F085 pos 88  1B 08  B3  len 8
+F087 pos 89  16 08  F#3  len 8
+F089 pos 90  1B 04  B3  len 4
+F08B pos 91  22 04  D4  len 4
+F08D pos 92  1B 08  B3  len 8
+F08F pos 93  21 04  C#4  len 4
+F091 pos 94  22 04  D4  len 4
+F093 pos 95  1B 08  B3  len 8
+F095 pos 96  16 08  F#3  len 8
+F097 pos 97  1B 04  B3  len 4
+F099 pos 98  22 04  D4  len 4
+F09B pos 99  1B 08  B3  len 8
+F09D pos100  21 04  C#4  len 4
+F09F pos101  22 04  D4  len 4
+F0A1 pos102  17 08  G3  len 8
+F0A3 pos103  12 08  D3  len 8
+F0A5 pos104  17 04  G3  len 4
+F0A7 pos105  1B 04  B3  len 4
+F0A9 pos106  22 08  D4  len 8
+F0AB pos107  21 04  C#4  len 4
+F0AD pos108  1B 04  B3  len 4
+F0AF pos109  19 08  A3  len 8
+F0B1 pos110  14 08  E3  len 8
+F0B3 pos111  19 04  A3  len 4
+F0B5 pos112  21 04  C#4  len 4
+F0B7 pos113  24 08  E4  len 8
+F0B9 pos114  22 04  D4  len 4
+F0BB pos115  21 04  C#4  len 4
+F0BD pos116  26 08  F#4  len 8
+F0BF pos117  21 08  C#4  len 8
+F0C1 pos118  26 04  F#4  len 4
+F0C3 pos119  2A 04  A#4  len 4
+F0C5 pos120  31 08  C#5  len 8
+F0C7 pos121  34 04  E5  len 4
+F0C9 pos122  2A 04  A#4  len 4
+F0CB pos123  2B 08  B4  len 8
+F0CD pos124  1F 04  rest  len 4
+F0CF pos125  2B 04  B4  len 4
+F0D1 pos126  1F 04  rest  len 4
+F0D3 pos127  2A 04  A#4  len 4
+F0D5 pos128  1F 04  rest  len 4
+F0D7 pos129  2A 04  A#4  len 4
+F0D9 pos130  1B 08  B3  len 8
+F0DB pos131  1F 04  rest  len 4
+F0DD pos132  1B 04  B3  len 4
+F0DF pos133  1F 04  rest  len 4
+F0E1 pos134  1A 04  A#3  len 4
+F0E3 pos135  1F 04  rest  len 4
+F0E5 pos136  1A 04  A#3  len 4
+F0E7 pos137  B0 02  goto pos 2
+
+---- pulse2  slot $15  flags $01  data $F0EA-$F25D  file 0x3F0EA-0x3F25D
+header  71 03 00 00   tempo=71 (2.4375 frames/tick) duty=03 vol/env=00 sweep=00
+F0EE pos  2  A1 2A  sweep 2A
+F0F0 pos  3  C1 2A  envelope shape 1 length 42
+F0F2 pos  4  2B 08  B4  len 8
+F0F4 pos  5  1F 04  rest  len 4
+F0F6 pos  6  2B 04  B4  len 4
+F0F8 pos  7  1F 04  rest  len 4
+F0FA pos  8  26 04  F#4  len 4
+F0FC pos  9  1F 04  rest  len 4
+F0FE pos 10  26 04  F#4  len 4
+F100 pos 11  2B 04  B4  len 4
+F102 pos 12  26 04  F#4  len 4
+F104 pos 13  2B 04  B4  len 4
+F106 pos 14  32 04  D5  len 4
+F108 pos 15  2B 04  B4  len 4
+F10A pos 16  36 04  F#5  len 4
+F10C pos 17  32 04  D5  len 4
+F10E pos 18  3B 04  B5  len 4
+F110 pos 19  36 04  F#5  len 4
+F112 pos 20  32 04  D5  len 4
+F114 pos 21  27 04  G4  len 4
+F116 pos 22  22 04  D4  len 4
+F118 pos 23  27 04  G4  len 4
+F11A pos 24  2B 04  B4  len 4
+F11C pos 25  27 04  G4  len 4
+F11E pos 26  32 04  D5  len 4
+F120 pos 27  2B 04  B4  len 4
+F122 pos 28  37 04  G5  len 4
+F124 pos 29  36 04  F#5  len 4
+F126 pos 30  32 04  D5  len 4
+F128 pos 31  29 04  A4  len 4
+F12A pos 32  24 04  E4  len 4
+F12C pos 33  29 04  A4  len 4
+F12E pos 34  31 04  C#5  len 4
+F130 pos 35  29 04  A4  len 4
+F132 pos 36  34 04  E5  len 4
+F134 pos 37  31 04  C#5  len 4
+F136 pos 38  39 04  A5  len 4
+F138 pos 39  37 04  G5  len 4
+F13A pos 40  36 04  F#5  len 4
+F13C pos 41  2B 04  B4  len 4
+F13E pos 42  26 04  F#4  len 4
+F140 pos 43  2B 04  B4  len 4
+F142 pos 44  32 04  D5  len 4
+F144 pos 45  2B 04  B4  len 4
+F146 pos 46  36 04  F#5  len 4
+F148 pos 47  32 04  D5  len 4
+F14A pos 48  3B 04  B5  len 4
+F14C pos 49  36 04  F#5  len 4
+F14E pos 50  32 04  D5  len 4
+F150 pos 51  2B 04  B4  len 4
+F152 pos 52  26 04  F#4  len 4
+F154 pos 53  2B 04  B4  len 4
+F156 pos 54  32 04  D5  len 4
+F158 pos 55  2B 04  B4  len 4
+F15A pos 56  36 04  F#5  len 4
+F15C pos 57  32 04  D5  len 4
+F15E pos 58  3B 04  B5  len 4
+F160 pos 59  36 04  F#5  len 4
+F162 pos 60  32 04  D5  len 4
+F164 pos 61  27 04  G4  len 4
+F166 pos 62  22 04  D4  len 4
+F168 pos 63  27 04  G4  len 4
+F16A pos 64  2B 04  B4  len 4
+F16C pos 65  27 04  G4  len 4
+F16E pos 66  32 04  D5  len 4
+F170 pos 67  2B 04  B4  len 4
+F172 pos 68  37 04  G5  len 4
+F174 pos 69  36 04  F#5  len 4
+F176 pos 70  32 04  D5  len 4
+F178 pos 71  29 04  A4  len 4
+F17A pos 72  24 04  E4  len 4
+F17C pos 73  29 04  A4  len 4
+F17E pos 74  31 04  C#5  len 4
+F180 pos 75  29 04  A4  len 4
+F182 pos 76  34 04  E5  len 4
+F184 pos 77  31 04  C#5  len 4
+F186 pos 78  39 04  A5  len 4
+F188 pos 79  37 04  G5  len 4
+F18A pos 80  36 04  F#5  len 4
+F18C pos 81  2B 04  B4  len 4
+F18E pos 82  26 04  F#4  len 4
+F190 pos 83  2B 04  B4  len 4
+F192 pos 84  32 04  D5  len 4
+F194 pos 85  2B 04  B4  len 4
+F196 pos 86  36 04  F#5  len 4
+F198 pos 87  32 04  D5  len 4
+F19A pos 88  3B 04  B5  len 4
+F19C pos 89  36 04  F#5  len 4
+F19E pos 90  32 04  D5  len 4
+F1A0 pos 91  2B 04  B4  len 4
+F1A2 pos 92  26 04  F#4  len 4
+F1A4 pos 93  2B 04  B4  len 4
+F1A6 pos 94  32 04  D5  len 4
+F1A8 pos 95  2B 04  B4  len 4
+F1AA pos 96  36 04  F#5  len 4
+F1AC pos 97  32 04  D5  len 4
+F1AE pos 98  3B 04  B5  len 4
+F1B0 pos 99  36 04  F#5  len 4
+F1B2 pos100  32 04  D5  len 4
+F1B4 pos101  27 04  G4  len 4
+F1B6 pos102  22 04  D4  len 4
+F1B8 pos103  27 04  G4  len 4
+F1BA pos104  2B 04  B4  len 4
+F1BC pos105  27 04  G4  len 4
+F1BE pos106  32 04  D5  len 4
+F1C0 pos107  2B 04  B4  len 4
+F1C2 pos108  37 04  G5  len 4
+F1C4 pos109  36 04  F#5  len 4
+F1C6 pos110  32 04  D5  len 4
+F1C8 pos111  29 04  A4  len 4
+F1CA pos112  24 04  E4  len 4
+F1CC pos113  29 04  A4  len 4
+F1CE pos114  31 04  C#5  len 4
+F1D0 pos115  29 04  A4  len 4
+F1D2 pos116  34 04  E5  len 4
+F1D4 pos117  31 04  C#5  len 4
+F1D6 pos118  39 04  A5  len 4
+F1D8 pos119  37 04  G5  len 4
+F1DA pos120  36 04  F#5  len 4
+F1DC pos121  2B 04  B4  len 4
+F1DE pos122  26 04  F#4  len 4
+F1E0 pos123  2B 04  B4  len 4
+F1E2 pos124  32 04  D5  len 4
+F1E4 pos125  2B 04  B4  len 4
+F1E6 pos126  36 04  F#5  len 4
+F1E8 pos127  32 04  D5  len 4
+F1EA pos128  3B 04  B5  len 4
+F1EC pos129  36 04  F#5  len 4
+F1EE pos130  32 04  D5  len 4
+F1F0 pos131  2B 04  B4  len 4
+F1F2 pos132  26 04  F#4  len 4
+F1F4 pos133  2B 04  B4  len 4
+F1F6 pos134  32 04  D5  len 4
+F1F8 pos135  2B 04  B4  len 4
+F1FA pos136  36 04  F#5  len 4
+F1FC pos137  32 04  D5  len 4
+F1FE pos138  3B 04  B5  len 4
+F200 pos139  36 04  F#5  len 4
+F202 pos140  32 04  D5  len 4
+F204 pos141  27 04  G4  len 4
+F206 pos142  22 04  D4  len 4
+F208 pos143  27 04  G4  len 4
+F20A pos144  2B 04  B4  len 4
+F20C pos145  27 04  G4  len 4
+F20E pos146  32 04  D5  len 4
+F210 pos147  2B 04  B4  len 4
+F212 pos148  37 04  G5  len 4
+F214 pos149  36 04  F#5  len 4
+F216 pos150  32 04  D5  len 4
+F218 pos151  29 04  A4  len 4
+F21A pos152  24 04  E4  len 4
+F21C pos153  29 04  A4  len 4
+F21E pos154  31 04  C#5  len 4
+F220 pos155  29 04  A4  len 4
+F222 pos156  34 04  E5  len 4
+F224 pos157  31 04  C#5  len 4
+F226 pos158  39 04  A5  len 4
+F228 pos159  37 04  G5  len 4
+F22A pos160  36 04  F#5  len 4
+F22C pos161  31 04  C#5  len 4
+F22E pos162  26 04  F#4  len 4
+F230 pos163  2A 04  A#4  len 4
+F232 pos164  31 04  C#5  len 4
+F234 pos165  34 04  E5  len 4
+F236 pos166  36 04  F#5  len 4
+F238 pos167  3A 04  A#5  len 4
+F23A pos168  41 04  C#6  len 4
+F23C pos169  3B 04  B5  len 4
+F23E pos170  3A 04  A#5  len 4
+F240 pos171  2B 08  B4  len 8
+F242 pos172  1F 04  rest  len 4
+F244 pos173  2B 04  B4  len 4
+F246 pos174  1F 04  rest  len 4
+F248 pos175  26 04  F#4  len 4
+F24A pos176  1F 04  rest  len 4
+F24C pos177  26 04  F#4  len 4
+F24E pos178  36 08  F#5  len 8
+F250 pos179  1F 04  rest  len 4
+F252 pos180  36 04  F#5  len 4
+F254 pos181  1F 04  rest  len 4
+F256 pos182  34 04  E5  len 4
+F258 pos183  1F 04  rest  len 4
+F25A pos184  34 04  E5  len 4
+F25C pos185  B0 02  goto pos 2
+
+---- triangle  slot $2A  flags $02  data $F25F-$F372  file 0x3F25F-0x3F372
+header  71 03 1F 00   tempo=71 (2.4375 frames/tick) linear=03 vol/env=1F sweep=00
+F263 pos  2  A2 3A  duty/linear 3A
+F265 pos  3  C2 2A  envelope shape 2 length 42
+F267 pos  4  1B 08  B2  len 8
+F269 pos  5  1F 04  rest  len 4
+F26B pos  6  1B 04  B2  len 4
+F26D pos  7  1F 04  rest  len 4
+F26F pos  8  1A 04  A#2  len 4
+F271 pos  9  1F 04  rest  len 4
+F273 pos 10  1A 04  A#2  len 4
+F275 pos 11  2B 08  B3  len 8
+F277 pos 12  26 08  F#3  len 8
+F279 pos 13  2B 04  B3  len 4
+F27B pos 14  32 04  D4  len 4
+F27D pos 15  2B 08  B3  len 8
+F27F pos 16  31 04  C#4  len 4
+F281 pos 17  32 04  D4  len 4
+F283 pos 18  27 08  G3  len 8
+F285 pos 19  22 08  D3  len 8
+F287 pos 20  27 04  G3  len 4
+F289 pos 21  2B 04  B3  len 4
+F28B pos 22  32 08  D4  len 8
+F28D pos 23  31 04  C#4  len 4
+F28F pos 24  2B 04  B3  len 4
+F291 pos 25  29 08  A3  len 8
+F293 pos 26  24 08  E3  len 8
+F295 pos 27  29 04  A3  len 4
+F297 pos 28  31 04  C#4  len 4
+F299 pos 29  34 08  E4  len 8
+F29B pos 30  32 04  D4  len 4
+F29D pos 31  31 04  C#4  len 4
+F29F pos 32  2B 08  B3  len 8
+F2A1 pos 33  26 08  F#3  len 8
+F2A3 pos 34  2B 04  B3  len 4
+F2A5 pos 35  32 04  D4  len 4
+F2A7 pos 36  2B 08  B3  len 8
+F2A9 pos 37  31 04  C#4  len 4
+F2AB pos 38  32 04  D4  len 4
+F2AD pos 39  2B 08  B3  len 8
+F2AF pos 40  26 08  F#3  len 8
+F2B1 pos 41  2B 04  B3  len 4
+F2B3 pos 42  32 04  D4  len 4
+F2B5 pos 43  2B 08  B3  len 8
+F2B7 pos 44  31 04  C#4  len 4
+F2B9 pos 45  32 04  D4  len 4
+F2BB pos 46  27 08  G3  len 8
+F2BD pos 47  22 08  D3  len 8
+F2BF pos 48  27 04  G3  len 4
+F2C1 pos 49  2B 04  B3  len 4
+F2C3 pos 50  32 08  D4  len 8
+F2C5 pos 51  31 04  C#4  len 4
+F2C7 pos 52  2B 04  B3  len 4
+F2C9 pos 53  29 08  A3  len 8
+F2CB pos 54  24 08  E3  len 8
+F2CD pos 55  29 04  A3  len 4
+F2CF pos 56  31 04  C#4  len 4
+F2D1 pos 57  34 08  E4  len 8
+F2D3 pos 58  32 04  D4  len 4
+F2D5 pos 59  31 04  C#4  len 4
+F2D7 pos 60  2B 08  B3  len 8
+F2D9 pos 61  26 08  F#3  len 8
+F2DB pos 62  2B 04  B3  len 4
+F2DD pos 63  32 04  D4  len 4
+F2DF pos 64  2B 08  B3  len 8
+F2E1 pos 65  31 04  C#4  len 4
+F2E3 pos 66  32 04  D4  len 4
+F2E5 pos 67  1B 08  B2  len 8
+F2E7 pos 68  16 08  F#2  len 8
+F2E9 pos 69  1B 04  B2  len 4
+F2EB pos 70  22 04  D3  len 4
+F2ED pos 71  1B 08  B2  len 8
+F2EF pos 72  21 04  C#3  len 4
+F2F1 pos 73  22 04  D3  len 4
+F2F3 pos 74  17 08  G2  len 8
+F2F5 pos 75  12 08  D2  len 8
+F2F7 pos 76  17 04  G2  len 4
+F2F9 pos 77  1B 04  B2  len 4
+F2FB pos 78  22 08  D3  len 8
+F2FD pos 79  21 04  C#3  len 4
+F2FF pos 80  1B 04  B2  len 4
+F301 pos 81  19 08  A2  len 8
+F303 pos 82  14 08  E2  len 8
+F305 pos 83  19 04  A2  len 4
+F307 pos 84  21 04  C#3  len 4
+F309 pos 85  24 08  E3  len 8
+F30B pos 86  22 04  D3  len 4
+F30D pos 87  21 04  C#3  len 4
+F30F pos 88  1B 08  B2  len 8
+F311 pos 89  16 08  F#2  len 8
+F313 pos 90  1B 04  B2  len 4
+F315 pos 91  22 04  D3  len 4
+F317 pos 92  1B 08  B2  len 8
+F319 pos 93  21 04  C#3  len 4
+F31B pos 94  22 04  D3  len 4
+F31D pos 95  1B 08  B2  len 8
+F31F pos 96  16 08  F#2  len 8
+F321 pos 97  1B 04  B2  len 4
+F323 pos 98  22 04  D3  len 4
+F325 pos 99  1B 08  B2  len 8
+F327 pos100  21 04  C#3  len 4
+F329 pos101  22 04  D3  len 4
+F32B pos102  17 08  G2  len 8
+F32D pos103  12 08  D2  len 8
+F32F pos104  17 04  G2  len 4
+F331 pos105  1B 04  B2  len 4
+F333 pos106  22 08  D3  len 8
+F335 pos107  21 04  C#3  len 4
+F337 pos108  1B 04  B2  len 4
+F339 pos109  19 08  A2  len 8
+F33B pos110  14 08  E2  len 8
+F33D pos111  19 04  A2  len 4
+F33F pos112  21 04  C#3  len 4
+F341 pos113  24 08  E3  len 8
+F343 pos114  22 04  D3  len 4
+F345 pos115  21 04  C#3  len 4
+F347 pos116  26 08  F#3  len 8
+F349 pos117  21 08  C#3  len 8
+F34B pos118  26 04  F#3  len 4
+F34D pos119  2A 04  A#3  len 4
+F34F pos120  31 08  C#4  len 8
+F351 pos121  34 04  E4  len 4
+F353 pos122  2A 04  A#3  len 4
+F355 pos123  2B 08  B3  len 8
+F357 pos124  1F 04  rest  len 4
+F359 pos125  2B 04  B3  len 4
+F35B pos126  1F 04  rest  len 4
+F35D pos127  2A 04  A#3  len 4
+F35F pos128  1F 04  rest  len 4
+F361 pos129  2A 04  A#3  len 4
+F363 pos130  1B 08  B2  len 8
+F365 pos131  1F 04  rest  len 4
+F367 pos132  1B 04  B2  len 4
+F369 pos133  1F 04  rest  len 4
+F36B pos134  1A 04  A#2  len 4
+F36D pos135  1F 04  rest  len 4
+F36F pos136  1A 04  A#2  len 4
+F371 pos137  B0 02  goto pos 2
+
+---- noise  slot $3F  flags $03  data $F374-$F4B1  file 0x3F374-0x3F4B1
+header  71 02 00 00   tempo=71 (2.4375 frames/tick) duty=02 vol/env=00 sweep=00
+F378 pos  2  C1 10  envelope shape 1 length 16
+F37A pos  3  08 08  noise 8  len 8
+F37C pos  4  1F 04  rest  len 4
+F37E pos  5  08 04  noise 8  len 4
+F380 pos  6  1F 04  rest  len 4
+F382 pos  7  08 04  noise 8  len 4
+F384 pos  8  1F 04  rest  len 4
+F386 pos  9  08 04  noise 8  len 4
+F388 pos 10  08 08  noise 8  len 8
+F38A pos 11  08 04  noise 8  len 4
+F38C pos 12  08 04  noise 8  len 4
+F38E pos 13  08 04  noise 8  len 4
+F390 pos 14  08 04  noise 8  len 4
+F392 pos 15  1F 04  rest  len 4
+F394 pos 16  08 04  noise 8  len 4
+F396 pos 17  08 04  noise 8  len 4
+F398 pos 18  08 04  noise 8  len 4
+F39A pos 19  1F 08  rest  len 8
+F39C pos 20  08 04  noise 8  len 4
+F39E pos 21  08 04  noise 8  len 4
+F3A0 pos 22  1F 04  rest  len 4
+F3A2 pos 23  08 04  noise 8  len 4
+F3A4 pos 24  1F 04  rest  len 4
+F3A6 pos 25  08 04  noise 8  len 4
+F3A8 pos 26  08 04  noise 8  len 4
+F3AA pos 27  08 04  noise 8  len 4
+F3AC pos 28  1F 08  rest  len 8
+F3AE pos 29  08 04  noise 8  len 4
+F3B0 pos 30  08 04  noise 8  len 4
+F3B2 pos 31  1F 04  rest  len 4
+F3B4 pos 32  08 04  noise 8  len 4
+F3B6 pos 33  1F 04  rest  len 4
+F3B8 pos 34  08 04  noise 8  len 4
+F3BA pos 35  08 04  noise 8  len 4
+F3BC pos 36  08 04  noise 8  len 4
+F3BE pos 37  08 08  noise 8  len 8
+F3C0 pos 38  08 04  noise 8  len 4
+F3C2 pos 39  08 04  noise 8  len 4
+F3C4 pos 40  1F 04  rest  len 4
+F3C6 pos 41  08 04  noise 8  len 4
+F3C8 pos 42  1F 04  rest  len 4
+F3CA pos 43  08 04  noise 8  len 4
+F3CC pos 44  08 04  noise 8  len 4
+F3CE pos 45  08 04  noise 8  len 4
+F3D0 pos 46  08 08  noise 8  len 8
+F3D2 pos 47  08 04  noise 8  len 4
+F3D4 pos 48  08 04  noise 8  len 4
+F3D6 pos 49  08 04  noise 8  len 4
+F3D8 pos 50  08 04  noise 8  len 4
+F3DA pos 51  1F 04  rest  len 4
+F3DC pos 52  08 04  noise 8  len 4
+F3DE pos 53  08 04  noise 8  len 4
+F3E0 pos 54  08 04  noise 8  len 4
+F3E2 pos 55  1F 08  rest  len 8
+F3E4 pos 56  08 04  noise 8  len 4
+F3E6 pos 57  08 04  noise 8  len 4
+F3E8 pos 58  1F 04  rest  len 4
+F3EA pos 59  08 04  noise 8  len 4
+F3EC pos 60  1F 04  rest  len 4
+F3EE pos 61  08 04  noise 8  len 4
+F3F0 pos 62  08 04  noise 8  len 4
+F3F2 pos 63  08 04  noise 8  len 4
+F3F4 pos 64  1F 08  rest  len 8
+F3F6 pos 65  08 04  noise 8  len 4
+F3F8 pos 66  08 04  noise 8  len 4
+F3FA pos 67  1F 04  rest  len 4
+F3FC pos 68  08 04  noise 8  len 4
+F3FE pos 69  1F 04  rest  len 4
+F400 pos 70  08 04  noise 8  len 4
+F402 pos 71  08 04  noise 8  len 4
+F404 pos 72  08 04  noise 8  len 4
+F406 pos 73  08 08  noise 8  len 8
+F408 pos 74  08 04  noise 8  len 4
+F40A pos 75  08 04  noise 8  len 4
+F40C pos 76  1F 04  rest  len 4
+F40E pos 77  08 04  noise 8  len 4
+F410 pos 78  1F 04  rest  len 4
+F412 pos 79  08 04  noise 8  len 4
+F414 pos 80  08 04  noise 8  len 4
+F416 pos 81  08 04  noise 8  len 4
+F418 pos 82  08 08  noise 8  len 8
+F41A pos 83  08 04  noise 8  len 4
+F41C pos 84  08 04  noise 8  len 4
+F41E pos 85  08 04  noise 8  len 4
+F420 pos 86  08 04  noise 8  len 4
+F422 pos 87  1F 04  rest  len 4
+F424 pos 88  08 04  noise 8  len 4
+F426 pos 89  08 04  noise 8  len 4
+F428 pos 90  08 04  noise 8  len 4
+F42A pos 91  1F 08  rest  len 8
+F42C pos 92  08 04  noise 8  len 4
+F42E pos 93  08 04  noise 8  len 4
+F430 pos 94  1F 04  rest  len 4
+F432 pos 95  08 04  noise 8  len 4
+F434 pos 96  1F 04  rest  len 4
+F436 pos 97  08 04  noise 8  len 4
+F438 pos 98  08 04  noise 8  len 4
+F43A pos 99  08 04  noise 8  len 4
+F43C pos100  1F 08  rest  len 8
+F43E pos101  08 04  noise 8  len 4
+F440 pos102  08 04  noise 8  len 4
+F442 pos103  1F 04  rest  len 4
+F444 pos104  08 04  noise 8  len 4
+F446 pos105  1F 04  rest  len 4
+F448 pos106  08 04  noise 8  len 4
+F44A pos107  08 04  noise 8  len 4
+F44C pos108  08 04  noise 8  len 4
+F44E pos109  08 08  noise 8  len 8
+F450 pos110  08 04  noise 8  len 4
+F452 pos111  08 04  noise 8  len 4
+F454 pos112  1F 04  rest  len 4
+F456 pos113  08 04  noise 8  len 4
+F458 pos114  1F 04  rest  len 4
+F45A pos115  08 04  noise 8  len 4
+F45C pos116  08 04  noise 8  len 4
+F45E pos117  08 04  noise 8  len 4
+F460 pos118  08 08  noise 8  len 8
+F462 pos119  08 04  noise 8  len 4
+F464 pos120  08 04  noise 8  len 4
+F466 pos121  08 04  noise 8  len 4
+F468 pos122  08 04  noise 8  len 4
+F46A pos123  1F 04  rest  len 4
+F46C pos124  08 04  noise 8  len 4
+F46E pos125  08 04  noise 8  len 4
+F470 pos126  08 04  noise 8  len 4
+F472 pos127  1F 08  rest  len 8
+F474 pos128  08 04  noise 8  len 4
+F476 pos129  08 04  noise 8  len 4
+F478 pos130  1F 04  rest  len 4
+F47A pos131  08 04  noise 8  len 4
+F47C pos132  1F 04  rest  len 4
+F47E pos133  08 04  noise 8  len 4
+F480 pos134  08 04  noise 8  len 4
+F482 pos135  08 04  noise 8  len 4
+F484 pos136  1F 08  rest  len 8
+F486 pos137  08 04  noise 8  len 4
+F488 pos138  08 04  noise 8  len 4
+F48A pos139  1F 04  rest  len 4
+F48C pos140  08 04  noise 8  len 4
+F48E pos141  1F 04  rest  len 4
+F490 pos142  08 04  noise 8  len 4
+F492 pos143  08 04  noise 8  len 4
+F494 pos144  08 04  noise 8  len 4
+F496 pos145  08 08  noise 8  len 8
+F498 pos146  08 04  noise 8  len 4
+F49A pos147  08 04  noise 8  len 4
+F49C pos148  1F 04  rest  len 4
+F49E pos149  08 04  noise 8  len 4
+F4A0 pos150  1F 04  rest  len 4
+F4A2 pos151  08 04  noise 8  len 4
+F4A4 pos152  08 04  noise 8  len 4
+F4A6 pos153  08 04  noise 8  len 4
+F4A8 pos154  1F 10  rest  len 16
+F4AA pos155  1F 10  rest  len 16
+F4AC pos156  1F 10  rest  len 16
+F4AE pos157  1F 10  rest  len 16
+F4B0 pos158  B0 02  goto pos 2

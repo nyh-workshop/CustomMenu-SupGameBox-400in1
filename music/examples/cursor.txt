@@ -1,0 +1,5 @@
+# Chinese menu cursor sound (played by the driver, SFX #4)
+channel = pulse2
+speed   = 2            # frames per step
+duty    = 2
+steps   = C6:12 E6:10 G6:8 C7:6

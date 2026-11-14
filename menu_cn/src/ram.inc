@@ -1,0 +1,32 @@
+; RAM variables, named from how the menu code uses them.
+; Unnamed RAM is still written as plain addresses.
+ppu_ctrl_shadow        = $00
+ppu_mask_shadow        = $01
+video_2010_shadow      = $02
+scroll_x_shadow        = $03
+scroll_y_shadow        = $04
+frame_counter          = $06
+prg8000_shadow         = $08
+flag_4119              = $0D
+frame_done             = $1B
+nmi_hook_mode          = $1C
+bg_chr_base            = $1D
+nmi_hook_ptr           = $24
+menu_state             = $30
+menu_step              = $31
+step_exit              = $32
+screen_id              = $3A
+spr_chr_base           = $4D
+chooser_option         = $7D
+state_tbl_ptr          = $B0
+handler_ptr            = $B2
+screen_desc_ptr        = $B4
+sound_id               = $DB
+prng_state             = $011D
+list4_ptr_lo           = $0365
+list4_ptr_hi           = $0366
+list4_count_lo         = $0372
+list4_count_hi         = $0373
+cn_page                = $0375
+cn_row                 = $03C3
+list_header_sel        = $03F7

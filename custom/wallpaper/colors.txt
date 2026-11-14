@@ -1,0 +1,12 @@
+# Colours of the English game list, used by make rom (rombuilder/README.md, "List colours").
+# NES colour numbers in hex: $30 / 0x30 / 30. nes_colours.png in this folder shows all 64 with their numbers.
+# A line left out (or "original") keeps what the base image / wallpaper has.
+#
+# text     = $30      # the letters of the game names (original: $20, white)
+# text_bg  = auto     # the colour around the letters = colour 0, the screen's background colour (shared by the
+#                     #   whole picture). auto: with a wallpaper, the colour that covers most of the picture under the
+#                     #   list lines (else the picture's commonest colour); without one, as it is ($0F, black).
+#                     #   picture: the picture's commonest colour.  $xx: this colour.
+# cursor   = $25      # the arrow (original: $25, pink)
+# title    = $16 $20  # "400 IN 1" of the original background: the letters, then their highlight (original: $16 red,
+#                     #   $20 white). Ignored with a wallpaper: paint the title in the picture.

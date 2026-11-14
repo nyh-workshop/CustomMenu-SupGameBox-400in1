@@ -1,0 +1,17 @@
+# Music and the cursor sound of the English game list (played by the 400-in-1's own sound driver).
+#
+#   song     = original        the Chinese menu's tune
+#            = none            silence
+#            = my_song.mid     a MIDI file in this folder (4 voices: pulse 1, pulse 2, triangle, noise)
+#   options  = key=value ...   MIDI conversion options, e.g.  options = p1=t1 p2=t3 tri=t2 noise=t4 auto=0 drums=simple
+#              p1 / p2 / tri / noise = the source of each NES voice: a track tN (as `make midi-info SRC=...` lists
+#              them), a MIDI channel 1-16, a+b to merge, 0 = silent; auto=0 = voices you do not name stay silent
+#              pick_p1 / pick_p2 / pick_tri = which note of a chord a voice keeps: high, low, first, last, 1, 2, -1, -2 ...
+#              also: transpose transpose_p1 transpose_p2 transpose_tri range vol vol_p2 vol_noise duty1 duty2 decay
+#              drums ticks16 speed start end loop  (see rombuilder/README.md, "Music")
+#   cursor   = original        the Chinese menu's cursor sound
+#            = none            no sound
+#            = cursor.txt      a sound-effect file in this folder (see cursor_example.txt)
+song    = original
+options =
+cursor  = original
